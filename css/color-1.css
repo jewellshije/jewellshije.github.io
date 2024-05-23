@@ -1,0 +1,121 @@
+.art-link.art-color-link {
+	color: #ff00a1;
+}
+
+.art-link.art-color-link:hover {
+	color: #ff00a1;
+}
+
+.art-btn {
+	background: #ff00a1;
+}
+
+blockquote {
+	background: #ff00a1;
+}
+
+.art-custom-list li:before {
+	border: solid 2px #ff00a1;
+}
+
+.art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp {
+	background: #ff00a1;
+}
+
+.art-info-bar .art-name:hover a {
+	color: #ff00a1;
+}
+
+.art-info-bar .art-knowledge-list li:before {
+	color: #ff00a1;
+}
+
+.art-menu-bar .art-language-change li.art-active-lang {
+	background-color: #ff00a1;
+}
+
+.art-code i {
+	color: #ff00a1;
+}
+
+.art-counter-frame .art-counter-box .art-counter {
+	color: #ff00a1;
+}
+
+.art-counter-frame .art-counter-box .art-counter-plus {
+	color: #ff00a1;
+}
+
+.art-price.art-popular-price:before {
+	background: #ff00a1;
+}
+
+.art-price .art-price-body .art-price-cost .art-number {
+	color: #ff00a1;
+}
+
+.art-price .art-price-body .art-price-list li:before {
+	color: #ff00a1;
+}
+
+.art-price .art-price-body .art-price-list li.art-empty-item:before {
+	color: #ff00a1;
+}
+
+.art-testimonial .art-testimonial-footer .art-star-rate {
+	color: #ff00a1;
+}
+
+.art-slider-navigation
+	.swiper-pagination-bullet.swiper-pagination-bullet-active {
+	background-color: #ff00a1;
+}
+
+.fancybox-progress {
+	background: #ff00a1;
+}
+
+.fancybox-thumbs__list a:before {
+	border-color: #ff00a1;
+}
+
+.art-timeline .art-timeline-item .art-timeline-mark {
+	border: solid 3px #ff00a1;
+}
+
+.fancybox-thumbs__list a:before {
+	border-color: #ff00a1;
+}
+
+.fa-facebook i:before {
+	border-color: #ff00a1;
+}
+
+.art-form-field textarea.art-active {
+	border-color: #ffc107;
+}
+
+.art-form-field textarea:focus {
+	border-color: #ffc107;
+}
+
+.art-contact-form .art-input.art-active + label,
+.art-contact-form .art-input:focus + label {
+	background: #ffc107;
+}
+
+.art-pagination .art-pagination-center a.art-active-pag {
+	color: #ffc107;
+}
+
+.art-preloader-load path:last-child {
+	stroke: #ffc107;
+}
+
+.art-line-progress path:last-child {
+	stroke: #ffc107;
+}
+
+.art-cirkle-progress path:last-child {
+	stroke: #ffc107;
+}
